@@ -2,7 +2,7 @@
 # Jogo do Número Secreto 🎮🔢
 
 ## Descrição 📜
-O **Jogo do Número Secreto** é um jogo interativo onde o objetivo é adivinhar um número gerado aleatoriamente entre 1 e 100. O jogo oferece dicas de forma visual e por voz, com **emojis animados** para tornar a experiência ainda mais divertida e envolvente.
+O **Jogo do Número Secreto** é um jogo interativo onde o objetivo é adivinhar um número gerado aleatoriamente entre 1 e 10. O jogo oferece dicas de forma visual e por voz, com **emojis animados** para tornar a experiência ainda mais divertida e envolvente.
 
 ## Funcionalidades ⚙️
 - Geração de um número aleatório entre 1 e 10.
